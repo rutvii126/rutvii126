@@ -1,8 +1,4 @@
-![](https://komarev.com/ghpvc/?username=samyakshah3008&color=000000)
 
-![Typing words](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0B0BFF&size=25&lines=Full+stack+developer;Open+Source;Passionate+about+startups)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samyakshah3008&theme=radical&hide_border=true)
 
 ## Tech Stack ⚒️
 
